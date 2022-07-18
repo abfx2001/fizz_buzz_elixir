@@ -20,7 +20,7 @@ profissional.
 
 #### Função principal
 
-```http
+```Elixir
   FizzBuzz.build()
 ```
 
@@ -30,7 +30,7 @@ profissional.
 
 #### Retorna uma lista
 
-```http
+```Elixir
   {:ok, [1, 2, :Fizz, 4, :Buzz, :FizzBuzz]}
 ```
 
